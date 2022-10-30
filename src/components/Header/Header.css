@@ -1,0 +1,26 @@
+.Header {
+  height: 70px;
+  background-color: #179bff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.HeaderLeft {
+  font-size: 1.5rem;
+  padding-left: 35px;
+}
+
+.HeaderRight {
+  font-size: 1.5rem;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  padding-right: 35px;
+}
+
+.HeaderRight div {
+  display: flex;
+  padding-right: 35px;
+}
